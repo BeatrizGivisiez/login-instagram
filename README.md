@@ -2,7 +2,7 @@
 
 ### Recriando a página Inicial de login do Instagram
 
-Esse é o repositório foi abordado os conceitos sobre o Flexbox e responsividade, na qual vamos fazer a interface de login do Instagram! 
+Esse é o repositório foi abordado os conceitos sobre o Flexbox e responsividade, na qual refizemos a interface de login do Instagram! 
 
 ### Os requisitos são:
 
