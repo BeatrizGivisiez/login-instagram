@@ -1,3 +1,5 @@
+<img width="auto" src="https://prnt.sc/vmif6f"><br>
+
 # Atividades do Bootcamp - React Web Developer 🙃
 
 ### Recriando a página Inicial de login do Instagram
